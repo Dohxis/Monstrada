@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="439820c9-3050-49ae-95af-7e981f9d2012" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/config.coffee" afterPath="$PROJECT_DIR$/src/lib/config.coffee" />
-    </list>
+    <list default="true" id="439820c9-3050-49ae-95af-7e981f9d2012" name="Default" comment="" />
     <ignored path="LD33.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
