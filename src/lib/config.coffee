@@ -6,5 +6,5 @@ module.exports =
     backgroundColor: 0x222222
 
   images:
-    
+
 
