@@ -8,6 +8,8 @@ module.exports =
   images:
     bg: 'assets/img/bg.png'
     ground: 'assets/img/ground.png'
+    platform: 'assets/img/platform.png'
     bullet: 'assets/img/bullet.png'
+    heart: 'assets/img/heart.png'
 
 
