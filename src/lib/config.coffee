@@ -1,9 +1,8 @@
 module.exports =
   width: 640
   height: 480
-
-  stage:
-    backgroundColor: 0x99CCFF
+  score: 0
+  scoreThis: 0
 
   images:
     bg: 'assets/img/bg.png'
